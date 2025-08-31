@@ -6,6 +6,8 @@
 
 **ENH-Lyrics** is a comprehensive AI-powered songwriting system optimized for Claude Sonnet 4 that dynamically generates, enhances, and refines song lyrics across all genres with exceptional creativity, technical precision, and emotional depth.
 
+## Example Song using UDIO 1.5 https://www.udio.com/songs/227VFUK1tXWP69pKqbouYx
+
 ## 🎵 Features
 
 ### Core Capabilities
